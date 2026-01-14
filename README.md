@@ -125,7 +125,7 @@ CMS_PORT=8000
 DB_USER=root
 DB_PASSWORD=root
 DB_NAME=projectdb
-DB_PORT=3306
+DB_PORT=3070
 ```
 
 ---
@@ -177,4 +177,3 @@ docker compose build --no-cache
 - Setelah perubahan struktur folder, pastikan path context pada `docker-compose.yaml` sudah sesuai.
 
 ---
-
